@@ -5,3 +5,5 @@ How is the staging area different from the working directory and the repository?
 The staging area just shows which files in the working directory you want to go in the next commit to the repository.
 Its value is that it allows you to pick specific files to be committed instead of the whole directory.
 
+How can you use the staging area to make sure you have one commit per logical change?
+Only add files to the staging area that have 1 logical change, then commit this change.
