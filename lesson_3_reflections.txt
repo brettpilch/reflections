@@ -11,3 +11,7 @@ branch: start a different version of the same thing for experimenting or trying 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can make changes to the last known state, then push to github and it will merge automatically
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+By emailing or dropboxing files back and forth. It might be easier to transfer files, but it
+would be much harder to see the changes that were made and maintain different versions.
