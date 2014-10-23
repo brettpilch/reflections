@@ -7,3 +7,6 @@ Its value is that it allows you to pick specific files to be committed instead o
 
 How can you use the staging area to make sure you have one commit per logical change?
 Only add files to the staging area that have 1 logical change, then commit this change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to have different versions of something, branches help you to easily switch between versions.
