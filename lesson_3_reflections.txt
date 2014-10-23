@@ -15,3 +15,6 @@ You can make changes to the last known state, then push to github and it will me
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 By emailing or dropboxing files back and forth. It might be easier to transfer files, but it
 would be much harder to see the changes that were made and maintain different versions.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Use a separate branch when you want to try a new experimental part, or when your part must be approved through pull requests.
