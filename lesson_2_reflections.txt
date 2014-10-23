@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+It starts a commit history on that directory. You need to do it to keep track of your version history.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area just shows which files in the working directory you want to go in the next commit to the repository.
+Its value is that it allows you to pick specific files to be committed instead of the whole directory.
+
