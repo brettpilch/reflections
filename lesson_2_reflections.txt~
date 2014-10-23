@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+It starts a commit history on that directory. You need to do it to keep track of your version history.
+
